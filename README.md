@@ -1,8 +1,8 @@
-# 🎓 Academic Risk Prediction & Early Warning System
+# 🎓 IIPS Academic Risk Prediction
 
 ## 📌 Project Overview
 
-The Academic Risk Prediction & Early Warning System is a data-driven project designed to identify students who may be at academic risk based on their academic performance and related factors.
+The IIPS Academic Risk Prediction  is a data-driven project designed to identify students who may be at academic risk based on their academic performance and related factors.
 
 The system analyzes student data to predict academic risk and helps identify students who may require additional academic support. It can assist educational institutions in taking timely action to improve student performance and reduce academic difficulties.
 
